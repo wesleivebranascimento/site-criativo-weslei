@@ -10,6 +10,7 @@ display: flex;
 justify-content: space-around;
 align-items: center;
 padding: 24px;
+font-family: "Poppins",sans-serif;
 }
 
 .cabecalho-imagem{
@@ -37,10 +38,16 @@ padding: 24px;
 
 .escola-div-conteudo{
     width: 35%;
+    text-align: center;
+    font-family: "Poppins",sans-serif;
 }
 
 .escola-titulo{
     font-size: 32px;
     padding: 24px 0;
+    text-align: center;
 }
 
+.estudante-imagem{
+    width: 10%;
+}
