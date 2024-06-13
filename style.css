@@ -49,9 +49,30 @@ font-family: "Poppins",sans-serif;
 }
 
 .estudante-imagem{
-    width: 7%;
+    width: 25%;
 }
 
 .estudante-icone{
     width: 35px;
+}
+
+.estudante-div{
+    text-align: center;
+    padding: 20px 20px;
+}
+
+.estudante{
+    background-color: #000000;
+}
+
+.estudante-titulo{
+    text-align: center;
+    padding: 30px 0;
+    font-size: 32px;
+    color: #2e22cc;
+}
+
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
 }
